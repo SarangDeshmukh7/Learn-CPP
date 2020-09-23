@@ -1,6 +1,6 @@
 # C++
 
-This notebook is for revising the concept of C++ .
+### This notebook is for revising the concept of C++ .
 
 - Operators - arithmetic, assigment, logical, bitwise
 - Conditions like if / else / switch
@@ -19,3 +19,8 @@ This notebook is for revising the concept of C++ .
 - Exceptions
 - Input / output streams and validation of data
 - STL: vector
+
+
+### Who this course is for:
+- beginner
+- person who wants to understand programming
