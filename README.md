@@ -21,6 +21,6 @@
 - STL: vector
 
 
-### Who this course is for:
+### Who this notebook is for:
 - beginner
 - person who wants to understand programming
