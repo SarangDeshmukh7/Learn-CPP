@@ -6,24 +6,27 @@ using namespace std;
 void welcome(); //declaration of function, procedure
 bool isNumber(string);
 void enterName();
-double add(double a, double b) {return a + b;}
+double add(double a, double b) {return a + b;} // inline function
 void changeValueTo10(int a)
 {
   a = 10;
 }
 int main()
 {
-   // welcome();
-   /* enterName();
+    welcome();
     enterName();
-    enterName();*/
+    enterName();
+    enterName();
+  
     char ch;
     cout << "Do you want to end the program? (Y/N)" << endl;
 
     cin >> ch;
     if (ch == 'Y' || ch == 'y')
     return 0;
-   // cout << add(4,5);
+  
+   // cout << add(4,5); // parameter of inline function
+  
     int a = 5;
 
     changeValueTo10(a);
@@ -37,6 +40,8 @@ void welcome()
 {
     cout << "HEllo, welcome in my program!! :-)" << endl;
 }
+
+
 bool isNumber(string tmp)
 {
     if (tmp[0] == '0')
@@ -49,6 +54,8 @@ bool isNumber(string tmp)
 
     return true;
 }
+
+
 void enterName()
 {
     string tmp;
