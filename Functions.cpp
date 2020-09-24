@@ -7,10 +7,7 @@ void welcome(); //declaration of function, procedure
 bool isNumber(string);
 void enterName();
 double add(double a, double b) {return a + b;} // inline function
-void changeValueTo10(int a)
-{
-  a = 10;
-}
+
 int main()
 {
     welcome();
@@ -26,12 +23,7 @@ int main()
     return 0;
   
    // cout << add(4,5); // parameter of inline function
-  
-    int a = 5;
-
-    changeValueTo10(a);
-
-    cout << a;
+ 
 
     return 0;
 }
