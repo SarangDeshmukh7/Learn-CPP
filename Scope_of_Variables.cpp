@@ -1,5 +1,5 @@
 #include <iostream>
-
+Scope
 using namespace std;
 /*scope / range of varables */
 
