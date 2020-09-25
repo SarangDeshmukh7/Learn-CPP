@@ -11,12 +11,11 @@ int main()
 
     int * const p = &var; //this asterisk (datatype*) here is just used to INFORM about that this variable is a POINTER so it is a variable that can point to address of another variable
 
-   // p = &var;
+   
 
     cout << *p << endl; //this astrisk(without datatype *) here is used to RETRIEVE (GET) value FROM indicated (pointed) area in our memory (address)
 
-    //*p = 20;
-//    var = 60;
+ 
     *p = 60;
     cout << "var: " << var << endl;
     cout << "*p: "<< *p << endl;
