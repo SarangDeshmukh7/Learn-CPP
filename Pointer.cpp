@@ -1,3 +1,19 @@
+#include<iostream>
+void main()
+
+{
+    int a = 10;
+    int *ptr;
+    ptr = &a;
+    cout<<"value of a" <<*(&a)<<*ptr
+    cout<<"address of a" <<ptr<<&a;
+    
+    
+    
+
+//---------------------------------------------------------------------------------------------------//
+
+
 #include <iostream>
 
 using namespace std;
