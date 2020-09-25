@@ -7,3 +7,4 @@ int *ptr = &a[0] ;// or * ptr = a;
 cout<<*ptr<<endl;
 ptr = ptr + 2;
 cout <<*ptr << endl; 
+}
