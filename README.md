@@ -11,7 +11,6 @@
 - Referencers
 - Pointers
 - Dynamic allocation of memory
-- Creating project in IDE
 - Classes
 - Object oriented programming
 - Class and function templates
