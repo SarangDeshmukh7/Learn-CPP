@@ -21,5 +21,5 @@
 
 
 ### Who this notebook is for:
-- beginner
-- person who wants to understand programming
+- Beginner
+- Person who wants to understand programming
