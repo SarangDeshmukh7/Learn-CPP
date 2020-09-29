@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1308908985 source:d:\video kursy en\c++\39. static variables and functions\static\user.cpp
+	"user.h"
+
+1308909155 d:\video kursy en\c++\39. static variables and functions\static\user.h
+
+1308908867 source:d:\video kursy en\c++\39. static variables and functions\static\main.cpp
+	<iostream>
+	"user.h"
+
