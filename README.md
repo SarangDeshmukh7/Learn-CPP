@@ -14,10 +14,6 @@
 - Classes
 - Object oriented programming
 - Class and function templates
-- Namespaces
-- Exceptions
-- Input / output streams and validation of data
-- STL: vector
 
 
 ### Who this notebook is for:
