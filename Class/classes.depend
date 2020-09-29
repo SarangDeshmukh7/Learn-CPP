@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1308750048 source:d:\video kursy en\c++\38. classes\classes\main.cpp
+	<iostream>
+	"people.h"
+
+1308750016 d:\video kursy en\c++\38. classes\classes\people.h
+
+1308750072 source:d:\video kursy en\c++\38. classes\classes\people.cpp
+	"people.h"
+	<iostream>
+
