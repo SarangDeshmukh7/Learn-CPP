@@ -1,6 +1,6 @@
 # C++
 
-### This notebook is for revising the concept of C++ .
+### This notebook is for revising the concept of C++ 
 
 - Operators - arithmetic, assigment, logical, bitwise
 - Conditions like if / else / switch
