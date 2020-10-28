@@ -17,6 +17,6 @@
 - Class and function templates
 
 
-### Who this notebook is for:
+### Who this notebook is for
 - Beginner
 - Person who wants to understand programming
